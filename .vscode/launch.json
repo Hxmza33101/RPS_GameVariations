@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hkmughal/Documents/Education/MQU/Eng1000/Workshops/Software Design Logics/Final Project/RPS_GameVariations",
+      "program": "/Users/hkmughal/Documents/Education/MQU/Eng1000/Workshops/Software Design Logics/Final Project/RPS_GameVariations/build/Debug/outDebug"
+    }
+  ]
+}
